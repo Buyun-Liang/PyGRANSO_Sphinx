@@ -46,8 +46,8 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # a list of builtin themes.
 #
 
-html_theme = "haiku"
-
+#html_theme = "haiku"
+html_theme = "sphinx_book_theme"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -55,6 +55,6 @@ html_theme = "haiku"
 html_static_path = ['_static']
 
 html_logo = "./PyGRANSO_logo1.png"
-html_theme_options = {
-    "full_logo": "false"
-    }
+#html_theme_options = {
+#    "full_logo": "false"
+#    }
