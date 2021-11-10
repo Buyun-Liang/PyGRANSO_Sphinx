@@ -1,8 +1,8 @@
-PyGRANSO's documentation
+Home
 =======================================
 
 .. image:: examples/images/PyGRANSO_logo.png
-   :width: 600
+   :width: 1000
 
 
 .. warning::
@@ -21,7 +21,7 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    intro
    install
